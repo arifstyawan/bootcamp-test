@@ -1,0 +1,7 @@
+test\test\service\MovieService.class
+test\test\entity\Movie.class
+test\test\dto\MovieRequest.class
+test\test\controller\MovieController.class
+test\test\repository\MovieRepository.class
+test\test\service\impl\MovieServiceImpl.class
+test\test\TestApplication.class
